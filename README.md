@@ -7,5 +7,4 @@ Our dataset consists of 76 gestures related to doctor patient interface, letters
 
 
           MediaPipe Hands is a high-fidelity hand and finger tracking solution. It employs machine learning (ML) to infer 21 3D landmarks of a hand from just a single frame. Whereas current state-of-the-art approaches rely primarily on powerful desktop environments for inference, our method achieves real-time performance on a mobile phone, and even scales to multiple hands.
-![WhatsApp Image 2024-09-10 at 4 09 50 PM](https://github.com/user-attachments/assets/31bf4a6a-4d44-4233-acf7-8fd779e94a9e)
-                                               
+
